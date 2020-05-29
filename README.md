@@ -1,4 +1,4 @@
-# SQL Alchemy Challenge - Surfs Up!
+## SQL Alchemy Challenge - Surfs Up!
 
 ### Before You Begin
 
